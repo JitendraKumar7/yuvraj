@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338856511536",
+    "firebase_url": "https://krishna-super-market.firebaseio.com",
+    "project_id": "krishna-super-market",
+    "storage_bucket": "krishna-super-market.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338856511536:android:852e7c88c3a42a559f85f5",
+        "android_client_info": {
+          "package_name": "com.geofarad.ommachinerystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338856511536-l14qjpuset3tbgcfkrdocd03grmpm9fj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLnUAAjzX8Z8RMwO51rKNdac_F2tNA1f8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338856511536-l14qjpuset3tbgcfkrdocd03grmpm9fj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
